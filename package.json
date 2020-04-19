@@ -1,0 +1,28 @@
+{
+  "name": "sequelize-auto-mysql",
+  "version": "1.0.0",
+  "description": "Generate models for mysql - based on latest sequelize",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichiriac/sequelize-auto-mysql.git"
+  },
+  "keywords": [
+    "mysql",
+    "sequelize",
+    "generation"
+  ],
+  "author": "Ioan CHIRIAC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ichiriac/sequelize-auto-mysql/issues"
+  },
+  "homepage": "https://github.com/ichiriac/sequelize-auto-mysql#readme",
+  "dependencies": {
+    "sequelize": "^5.21.6",
+    "yargs": "^15.3.1"
+  }
+}
